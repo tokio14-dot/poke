@@ -1,87 +1,67 @@
 #EXTN3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-1. El comienzo de un viaje https://archive.org/download/horizontes-2/Horizontes%20%281%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-2. La búsqueda del Pokémon Legendario
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 1. El comienzo de un viaje
+https://archive.org/download/horizontes-2/Horizontes%20%281%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 2. La búsqueda del Pokémon Legendario
 https://archive.org/download/horizontes-2/Horizontes%20%282%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-3. La batalla contra el rival
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 3. La batalla contra el rival
 https://archive.org/download/horizontes-2/Horizontes%20%283%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-4. La llegada a la región de Alola https://archive.org/download/horizontes-2/Horizontes%20%284%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-5. La búsqueda del Pokémon Mewtwo https://archive.org/download/horizontes-2/Horizontes%20%285%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-6. La batalla contra el equipo de investigación https://archive.org/download/horizontes-2/Horizontes%20%286%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-7. La llegada a la región de Kalos
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 4. La llegada a la región de Alola 
+https://archive.org/download/horizontes-2/Horizontes%20%284%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 5. La búsqueda del Pokémon Mewtwo 
+https://archive.org/download/horizontes-2/Horizontes%20%285%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 6. La batalla contra el equipo de investigación 
+https://archive.org/download/horizontes-2/Horizontes%20%286%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 7. La llegada a la región de Kalos
 https://archive.org/download/horizontes-2/Horizontes%20%287%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-8. La búsqueda del Pokémon Xerneas
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 8. La búsqueda del Pokémon Xerneas
 https://archive.org/download/horizontes-2/Horizontes%20%288%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-9. La batalla contra el equipo de Yveltal https://archive.org/download/horizontes-2/Horizontes%20%289%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-10. La llegada a la región de Sinnoh
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 9. La batalla contra el equipo de Yveltal 
+https://archive.org/download/horizontes-2/Horizontes%20%289%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 10. La llegada a la región de Sinnoh
 https://archive.org/download/horizontes-2/Horizontes%20%2810%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-11. La búsqueda del Pokémon Dialga
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 11. La búsqueda del Pokémon Dialga
 https://archive.org/download/horizontes-2/Horizontes%20%2811%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-12. La batalla contra el equipo de Palkia
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 12. La batalla contra el equipo de Palkia
 https://archive.org/download/horizontes-2/Horizontes%20%2812%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-13. La llegada a la región de Johto
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 13. La llegada a la región de Johto
 https://archive.org/download/horizontes-2/Horizontes%20%2813%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-14. La búsqueda del Pokémon Suicune
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 14. La búsqueda del Pokémon Suicune
 https://archive.org/download/horizontes-2/Horizontes%20%2814%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-15. La batalla contra el equipo de Entei
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 15. La batalla contra el equipo de Entei
 https://archive.org/download/horizontes-2/Horizontes%20%2815%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-16. La llegada a la región de Kanto https://archive.org/download/horizontes-2/Horizontes%20%2816%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-17. La búsqueda del Pokémon Articuno
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 16. La llegada a la región de Kanto 
+https://archive.org/download/horizontes-2/Horizontes%20%2816%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 17. La búsqueda del Pokémon Articuno
 https://archive.org/download/horizontes-2/Horizontes%20%2817%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-18. La batalla contra el equipo de Zapdos
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 18. La batalla contra el equipo de Zapdos
 https://archive.org/download/horizontes-2/Horizontes%20%2818%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-19. La llegada a la región de Hoenn https://archive.org/download/horizontes-2/Horizontes%20%2819%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-20. La búsqueda del Pokémon Rayquaza
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 19. La llegada a la región de Hoenn 
+https://archive.org/download/horizontes-2/Horizontes%20%2819%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 20. La búsqueda del Pokémon Rayquaza
 https://archive.org/download/horizontes-2/Horizontes%20%2820%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-21. La batalla contra el equipo de Groudon
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 21. La batalla contra el equipo de Groudon
 https://archive.org/download/horizontes-2/Horizontes%20%2821%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-22. La llegada a la región de Unova
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 22. La llegada a la región de Unova
 https://archive.org/download/horizontes-2/Horizontes%20%2822%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-23. La búsqueda del Pokémon Reshiram
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 23. La búsqueda del Pokémon Reshiram
 https://archive.org/download/horizontes-2/Horizontes%20%2823%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-24. La batalla contra el equipo de Zekrom
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 24. La batalla contra el equipo de Zekrom
 https://archive.org/download/horizontes-2/Horizontes%20%2824%29.mp4 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-25. La llegada a la región de Kalos
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 25. La llegada a la región de Kalos
  
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-26. La búsqueda del Pokémon Greninja
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 26. La búsqueda del Pokémon Greninja
  
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-27. La batalla contra el equipo de Lucario
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 27. La batalla contra el equipo de Lucario
  
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-28. La llegada a la región de Alola
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 28. La llegada a la región de Alola
  
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-29. La búsqueda del Pokémon Necrozma
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 29. La búsqueda del Pokémon Necrozma
  
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 
-30. La batalla contra el equipo de Ultra
-```
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pyIBy2TYGPukk5ACMICYhLzYIhF.jpg", 30. La batalla contra el equipo de Ultra
+
+
+
+
 
 
 
