@@ -1,19 +1,19 @@
 EXTM3U
 
-#EXTINF:-1 tvg-logo="",01
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/80Toc1KomrtYFzy9idOVWGkJ0b9.jpg",01
 https://archive.org/download/viento.paldea/viento.paldea%20%281%29.ia.mp4
-#EXTINF:-1 tvg-logo="",02
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/80Toc1KomrtYFzy9idOVWGkJ0b9.jpg",02
 https://archive.org/download/viento.paldea/viento.paldea%20%282%29.ia.mp4
-#EXTINF:-1 tvg-logo="",03
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/80Toc1KomrtYFzy9idOVWGkJ0b9.jpg",03
 https://archive.org/download/viento.paldea/viento.paldea%20%283%29.ia.mp4
-#EXTINF:-1 tvg-logo="",04
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/80Toc1KomrtYFzy9idOVWGkJ0b9.jpg",04
 https://archive.org/download/viento.paldea/viento.paldea%20%284%29.ia.mp4
-#EXTINF:-1 tvg-logo="",05
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/80Toc1KomrtYFzy9idOVWGkJ0b9.jpg",05
 
-#EXTINF:-1 tvg-logo="",06
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/80Toc1KomrtYFzy9idOVWGkJ0b9.jpg",06
 
-#EXTINF:-1 tvg-logo="",07
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/80Toc1KomrtYFzy9idOVWGkJ0b9.jpg",07
 
-#EXTINF:-1 tvg-logo="",08
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/80Toc1KomrtYFzy9idOVWGkJ0b9.jpg",08
 
 #EXTINF:-1 tvg-logo="",09
