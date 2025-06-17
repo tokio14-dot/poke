@@ -1,67 +1,115 @@
 
-1. #EXTINF:-1 tvg-logo="", **¡La aventura comienza!** (Capítulo 1)
-2. #EXTINF:-1 tvg-logo="", **¡La búsqueda del Pokémon Legendario!** (Capítulo 2)
+#EXTM3U
+#EXTINF:-1 tvg-logo="", 1. ¡Viaje a Hoenn!
 
-3. #EXTINF:-1 tvg-logo="", **¡La rivalidad se vuelve más intensa!** (Capítulo 3)
-4. #EXTINF:-1 tvg-logo="", **¡La batalla contra el equipo de investigación!** (Capítulo 4)
-5. #EXTINF:-1 tvg-logo="", **¡La verdad sobre la conexión entre los Pokémon y los humanos!** (Capítulo 5)
+#EXTINF:-1 tvg-logo="", 2. ¡Bienvenido a Hoenn!
 
-6. #EXTINF:-1 tvg-logo="", **¡La búsqueda del secreto de los Pokémon misteriosos!** (Capítulo 6)
-7. #EXTINF:-1 tvg-logo="", **¡La batalla contra el líder de la organización de investigación!** (Capítulo 7)
-8. #EXTINF:-1 tvg-logo="", **¡La verdad sobre la misión de la organización de investigación!** (Capítulo 8)
-9. #EXTINF:-1 tvg-logo="", **¡La gran batalla final!** (Capítulo 9)
-10. #EXTINF:-1 tvg-logo="", **¡La victoria y la derrota!** (Capítulo 10)
+#EXTINF:-1 tvg-logo="", 3. ¡El Primer Desafío!
 
-11. #EXTINF:-1 tvg-logo="", **¡El nuevo comienzo!** (Capítulo 11)
-12. #EXTINF:-1 tvg-logo="", **¡La búsqueda del tesoro de los Pokémon!** (Capítulo 12)
-13. #EXTINF:-1 tvg-logo="", **¡La batalla contra el equipo de búsqueda!** (Capítulo 13)
-14. #EXTINF:-1 tvg-logo="", **¡La verdad sobre la conexión entre los Pokémon y la naturaleza!** (Capítulo 14)
-15. #EXTINF:-1 tvg-logo="", **¡La búsqueda del secreto de los Pokémon misteriosos!** (Capítulo 15)
+#EXTINF:-1 tvg-logo="", 4. ¡Un Encuentro Inesperado!
 
-16. #EXTINF:-1 tvg-logo="", **¡La gran batalla final!** (Capítulo 16)
-17. #EXTINF:-1 tvg-logo="", **¡La victoria y la derrota!** (Capítulo 17)
-18. #EXTINF:-1 tvg-logo="", **¡El nuevo comienzo!** (Capítulo 18)
-19. #EXTINF:-1 tvg-logo="", **¡La búsqueda del tesoro de los Pokémon!** (Capítulo 19)
-20. #EXTINF:-1 tvg-logo="", **¡La batalla contra el equipo de búsqueda!** (Capítulo 20)
+#EXTINF:-1 tvg-logo="", 5. ¡Un Nuevo Compañero!
 
-21. #EXTINF:-1 tvg-logo="", **¡La verdad sobre la conexión entre los Pokémon y la naturaleza!** (Capítulo 21)
-22. #EXTINF:-1 tvg-logo="", **¡La búsqueda del secreto de los Pokémon misteriosos!** (Capítulo 22)
-23. #EXTINF:-1 tvg-logo="", **¡La gran batalla final!** (Capítulo 23)
-24. #EXTINF:-1 tvg-logo="", **¡La victoria y la derrota!** (Capítulo 24)
-25. #EXTINF:-1 tvg-logo="", **¡El nuevo comienzo!** (Capítulo 25)
+#EXTINF:-1 tvg-logo="", 6. ¡Un Gimnasio Eléctrico!
 
-26. #EXTINF:-1 tvg-logo="", **¡La búsqueda del tesoro de los Pokémon!** (Capítulo 26)
-27. #EXTINF:-1 tvg-logo="", **¡La batalla contra el equipo de búsqueda!** (Capítulo 27)
-28. #EXTINF:-1 tvg-logo="", **¡La verdad sobre la conexión entre los Pokémon y la naturaleza!** (Capítulo 28)
-29. #EXTINF:-1 tvg-logo="", **¡La búsqueda del secreto de los Pokémon misteriosos!** (Capítulo 29)
-30. #EXTINF:-1 tvg-logo="", **¡La gran batalla final!** (Capítulo 30)
+#EXTINF:-1 tvg-logo="", 7. ¡Batalla en el Gimnasio!
 
-31. #EXTINF:-1 tvg-logo="", **¡La victoria y la derrota!** (Capítulo 31)
-32. #EXTINF:-1 tvg-logo="", **¡El nuevo comienzo!** (Capítulo 32)
-33. #EXTINF:-1 tvg-logo="", **¡La búsqueda del tesoro de los Pokémon!** (Capítulo 33)
-34. #EXTINF:-1 tvg-logo="", **¡La batalla contra el equipo de búsqueda!** (Capítulo 34)
-35. #EXTINF:-1 tvg-logo="", **¡La verdad sobre la conexión entre los Pokémon y la naturaleza!** (Capítulo 35)
+#EXTINF:-1 tvg-logo="", 8. ¡Una Reunión Familiar!
 
-36. #EXTINF:-1 tvg-logo="", **¡La búsqueda del secreto de los Pokémon misteriosos!** (Capítulo 36)
-37. #EXTINF:-1 tvg-logo="", **¡La gran batalla final!** (Capítulo 37)
-38. #EXTINF:-1 tvg-logo="", **¡La victoria y la derrota!** (Capítulo 38)
-39. #EXTINF:-1 tvg-logo="", **¡El nuevo comienzo!** (Capítulo 39)
-40. #EXTINF:-1 tvg-logo="", **¡La búsqueda del tesoro de los Pokémon!** (Capítulo 40)
+#EXTINF:-1 tvg-logo="", 9. ¡Un Pokémon Misterioso!
 
-41. #EXTINF:-1 tvg-logo="", **¡La batalla contra el equipo de búsqueda!** (Capítulo 41)
-42. #EXTINF:-1 tvg-logo="", **¡La verdad sobre la conexión entre los Pokémon y la naturaleza!** (Capítulo 42)
-43. #EXTINF:-1 tvg-logo="", **¡La búsqueda del secreto de los Pokémon misteriosos!** (Capítulo 43)
-44. #EXTINF:-1 tvg-logo="", **¡La gran batalla final!** (Capítulo 44)
-45. #EXTINF:-1 tvg-logo="", **¡La victoria y la derrota!** (Capítulo 45)
+#EXTINF:-1 tvg-logo="", 10. ¡Competencia de Pesca!
 
-46. #EXTINF:-1 tvg-logo="", **¡El nuevo comienzo!** (Capítulo 46)
-47. #EXTINF:-1 tvg-logo="", **¡La búsqueda del tesoro de los Pokémon!** (Capítulo 47)
-48. #EXTINF:-1 tvg-logo="", **¡La batalla contra el equipo de búsqueda!** (Capítulo 48)
-49. #EXTINF:-1 tvg-logo="", **¡La verdad sobre la conexión entre los Pokémon y la naturaleza!** (Capítulo 49)
-50. #EXTINF:-1 tvg-logo="", **¡La búsqueda del secreto de los Pokémon misteriosos!** (Capítulo 50)
+#EXTINF:-1 tvg-logo="", 11. ¡Evolución de Combate!
 
-51. #EXTINF:-1 tvg-logo="", **¡La gran batalla final!** (Capítulo 51)
-52. #EXTINF:-1 tvg-logo="", **¡La victoria y la derrota!** (Capítulo 52)
-53. #EXTINF:-1 tvg-logo="", **¡El nuevo comienzo!** (Capítulo 53)
-54. #EXTINF:-1 tvg-logo="", **¡La búsqueda del tesoro de los Pokémon!** (Capítulo 54)
-55. #EXTINF:-1 t
+#EXTINF:-1 tvg-logo="", 12. ¡Un Nuevo Reto!
+
+#EXTINF:-1 tvg-logo="", 13. ¡Batalla en el Gimnasio!
+
+#EXTINF:-1 tvg-logo="", 14. ¡Un Pokémon Legendario!
+
+#EXTINF:-1 tvg-logo="", 15. ¡Enfrentando al Equipo Magma!
+
+#EXTINF:-1 tvg-logo="", 16. ¡Combate de Entrenadores!
+
+#EXTINF:-1 tvg-logo="", 17. ¡Desafío en la Isla Dewford!
+
+#EXTINF:-1 tvg-logo="", 18. ¡Batalla en el Gimnasio!
+
+#EXTINF:-1 tvg-logo="", 19. ¡Un Pokémon Especial!
+
+#EXTINF:-1 tvg-logo="", 20. ¡Rumbo a Rustboro!
+
+#EXTINF:-1 tvg-logo="", 21. ¡Batalla en el Gimnasio!
+
+#EXTINF:-1 tvg-logo="", 22. ¡Conociendo a Wally!
+
+#EXTINF:-1 tvg-logo="", 23. ¡Evolución Inesperada!
+
+#EXTINF:-1 tvg-logo="", 24. ¡Problemas en la Ruta 111!
+
+#EXTINF:-1 tvg-logo="", 25. ¡Camino a Verdanturf!
+
+#EXTINF:-1 tvg-logo="", 26. ¡Batalla en el Gimnasio!
+
+#EXTINF:-1 tvg-logo="", 27. ¡Sueños de Coordinador!
+
+#EXTINF:-1 tvg-logo="", 28. ¡Preparándose para el Concurso!
+
+#EXTINF:-1 tvg-logo="", 29. ¡Debut en el Concurso!
+
+#EXTINF:-1 tvg-logo="", 30. ¡Hacia Fallarbor!
+
+#EXTINF:-1 tvg-logo="", 31. ¡Batalla en el Gimnasio!
+
+#EXTINF:-1 tvg-logo="", 32. ¡Un Pokémon Peculiar!
+
+#EXTINF:-1 tvg-logo="", 33. ¡Rumbo a Fortree!
+
+#EXTINF:-1 tvg-logo="", 34. ¡Batalla en el Gimnasio!
+
+#EXTINF:-1 tvg-logo="", 35. ¡Concurso en Fortree!
+
+#EXTINF:-1 tvg-logo="", 36. ¡Hacia Lilycove!
+
+#EXTINF:-1 tvg-logo="", 37. ¡Batalla en el Gimnasio!
+
+#EXTINF:-1 tvg-logo="", 38. ¡Concurso en Lilycove!
+
+#EXTINF:-1 tvg-logo="", 39. ¡Hacia Mossdeep!
+
+#EXTINF:-1 tvg-logo="", 40. ¡Batalla en el Gimnasio!
+
+#EXTINF:-1 tvg-logo="", 41. ¡Hacia Sootopolis!
+
+#EXTINF:-1 tvg-logo="", 42. ¡Batalla en el Gimnasio!
+
+#EXTINF:-1 tvg-logo="", 43. ¡El Desafío de la Liga Pokémon!
+
+#EXTINF:-1 tvg-logo="", 44. ¡Batalla en la Liga Pokémon!
+
+#EXTINF:-1 tvg-logo="", 45. ¡Hacia Nuevos Retos!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xxxxxxxx
